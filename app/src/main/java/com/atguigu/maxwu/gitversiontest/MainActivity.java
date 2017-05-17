@@ -9,8 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("version 1.2");
-        System.out.println("version 1.3");
         System.out.println("version 1.4");
     }
 }
